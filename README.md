@@ -53,9 +53,9 @@ RTOS-based applications on the ESP32 using **FreeRTOS**, simulated on Wokwi.
 
 
 ---
-###  [`Machine-learning/`](./Machine-learning/)
-| [`cnn-classifier`](Machine-learning/) | **TensorFlow CNN** for MNIST digit recognition (>98% accuracy) |
-| [`Credit-Fraud-Classifier`](Machine-learning/) | **Neural Net, Logistic, random forest, Gradient Boosting** For classifying credit card transactions |
+###  [`Machine-Learning/`](./Machine-Learning/)
+| [`cnn-classifier`](Machine-Learning/) | **TensorFlow CNN** for MNIST digit recognition (>98% accuracy) |
+| [`Credit-Fraud-Classifier`](Machine-Learning/) | **Neural Net, Logistic, random forest, Gradient Boosting** For classifying credit card transactions |
 
 
 ---
@@ -119,4 +119,5 @@ Data Science | University of Florida
 
 [LinkedIn](https://www.linkedin.com/in/diegoaguirre1102/) 
 ---
+
 

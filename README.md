@@ -1,18 +1,19 @@
 # Projects Portfolio
 
-Welcome! This repository showcases a collection of my hands-on digital systems and embedded engineering projects, some developed as part of my Computer Engineering coursework at the University of Central Florida (UCF), University of Florida (UF), and others on my own. While my background includes RTOS development, microcontroller programming, and AI applications, my primary focus is on **Software Engineering** and **Embedded Systems**.
+Welcome! This repository showcases a collection of my machine learning and embedded software projects, some developed as part of my Computer Science coursework at the University of Central Florida (UCF), University of Florida (UF), and others on my own. While my background includes RTOS development, microcontroller programming, and AI applications, my primary focus is on **Software Engineering** and **Embedded Systems**.
 
 These projects span different hardware systems, real-time systems on the ESP32 and work on the ARM4 chip, and low-level embedded C programming with the TMC123G board. Each project demonstrates a mix of theoretical knowledge and practical implementation across RTL design, embedded interfacing, and hardware-software integration.
 
 ## Key Areas of Focus
-- Digital VLSI Design (RTL logic, FSMs, RAM, datapaths)
 - Keil and Cypress IDE
-- Hardware Security (secure architectures, trusted CAD/EDA workflows)
 - Real-Time Operating Systems (FreeRTOS)
 - QP/C and QSpy frameworks
 - Deep Learning and Python-based experiments
+- Software Development
 
-This repository continues to grow as I expand my skills in digital hardware systems, with the goal of designing efficient, low-power, and high-performance logic for real-world applications in defense, aerospace, and beyond.
+
+
+This repository continues to grow as I expand my skills in software systems, with the goal of designing efficient, low-power, and high-performance logic for real-world applications in defense, aerospace, and beyond.
 ---
 
 ## Repository Structure
@@ -52,11 +53,11 @@ RTOS-based applications on the ESP32 using **FreeRTOS**, simulated on Wokwi.
 
 
 ---
-###  [`deep-learning/`](./deep-learning/)
-| [`cnn-classifier`](deep-learning/) | **TensorFlow CNN** for MNIST digit recognition (>98% accuracy) |
+###  [`Machine-Learning/`](./Machine-Learning/)
+| [`cnn-classifier`](Machine-Learning/) | **TensorFlow CNN** for MNIST digit recognition (>98% accuracy) |
+| [`Credit-Fraud-Classifier`](Machine-Learning/) | **Neural Net, Logistic, random forest, Gradient Boosting** For classifying credit card transactions |
 
-This projects demonstrate:
-- Python ML workflows with TensorFlow
+
 ---
 ###  [`ucf-cs-projects/`](./ucf-cs-projects/)
 Java and Python-based academic CS projects:
@@ -92,7 +93,9 @@ These projects demonstrate:
   - LPM3 with interrupts and event-driven wake-up
 -  **User Interfaces**
   - LCD digit display, graphics library (grlib), live counters
--  **Machine Learning**: CNN architecture, training & evaluation with TensorFlow
+-  **Machine Learning**
+  - CNN architecture, training & evaluation with TensorFlow
+  - Creating and training models to classify real world large data
 
 ---
 
@@ -116,3 +119,5 @@ Data Science | University of Florida
 
 [LinkedIn](https://www.linkedin.com/in/diegoaguirre1102/) 
 ---
+
+

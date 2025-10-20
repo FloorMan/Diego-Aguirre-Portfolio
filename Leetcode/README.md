@@ -7,15 +7,13 @@ My goal is to continually improve problem-solving, optimize algorithms, and prep
 ---
 
 ## Easy
-- [Two Sum](Leetcode/TwoSum.md)
-- [Valid Parentheses](Leetcode/ValidParentheses.md)
+- 
 
 ## Medium
-- [Add Two Numbers](Leetcode/AddTwoNumbers.md)
-- [Longest Substring Without Repeating Characters](Leetcode/LongestSubstring.md)
+- 
 
 ## Hard
-- [Median of Two Sorted Arrays](Leetcode/MedianOfTwoSortedArrays.md)
+-
 
 ---
 
@@ -28,6 +26,4 @@ My goal is to continually improve problem-solving, optimize algorithms, and prep
 ---
 
 ## Roadmap
-- [ ] Add weekly contest problems
-- [ ] Expand notes with complexity analysis tables
-- [ ] Add solutions in multiple languages (Python, C++)
+
